@@ -24,7 +24,7 @@
           <img
             src="../assets/light.jpeg"
             alt=""
-            class="w-[90rem] flex-none max-w-none dark:hidden"
+            class="w-[90rem] flex-none h-full max-w-none dark:hidden"
             decoding="async"
           />
         </picture>
@@ -38,7 +38,7 @@
           <img
             src="../assets/dark.jpg"
             alt=""
-            class="w-[90rem] flex-none max-w-none hidden dark:block"
+            class="w-[90rem] flex-none h-full max-w-none hidden dark:block"
             decoding="async"
           />
         </picture>
