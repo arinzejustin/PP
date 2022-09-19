@@ -1,29 +1,13 @@
-# profile
+# Personal Profile
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+Personal Site for documentation
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Email me
 
-### Run your unit tests
-```
-npm run test:unit
-```
+ [arinzejustinng@gmail.com](mailto:arinzejustinng@gmail.com).
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Link
+See [Configuration Reference]().
