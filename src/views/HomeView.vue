@@ -6,6 +6,7 @@
         -z-20
         top-0
         inset-x-0
+        bottom-0
         flex
         justify-center
         overflow-hidden
