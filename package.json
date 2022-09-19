@@ -1,5 +1,5 @@
 {
-  "name": "Personal Profile",
+  "name": "PP",
   "version": "1.0",
   "scripts": {
     "serve": "vue-cli-service serve",
