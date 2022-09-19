@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    overflow-y: hidden;
+}
+
+.animate {
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    animation-name: heartBeat;
+    animation-delay: 0.1s;
+}
+
+@-webkit-keyframes heartBeat {
+    0% {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+
+    14% {
+        -webkit-transform: scale(1.3);
+        transform: scale(1.3)
+    }
+
+    28% {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+
+    42% {
+        -webkit-transform: scale(1.3);
+        transform: scale(1.3)
+    }
+
+    70% {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+}
+
+@keyframes heartBeat {
+    0% {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+
+    14% {
+        -webkit-transform: scale(1.3);
+        transform: scale(1.3)
+    }
+
+    28% {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+
+    42% {
+        -webkit-transform: scale(1.3);
+        transform: scale(1.3)
+    }
+
+    70% {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+}
